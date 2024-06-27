@@ -24,7 +24,7 @@ CREATE TABLE cursos (
 CREATE TABLE Inscripciones (
     id_inscripcion INT PRIMARY KEY,
     fecha_insc DATE,
-    abono_inscrip BOOLEAN,
+    abono_insc BOOLEAN,
     id_alumno INT,
     id_curso INT,
 );
@@ -52,7 +52,7 @@ INSERT INTO cursos (id_curso, nombre, nivel_habilidad, tipo_instrumento) VALUES
 (9, 'Violín Avanzado', 'Avanzado', 'Violín');
 
 
-INSERT INTO inscripciones (id_inscripcion, fecha_insc, abono_inscrip, id_alumno, id_curso) VALUES
+INSERT INTO inscripciones (id_inscripcion, fecha_insc, abono_insc, id_alumno, id_curso) VALUES
 (1, '2024-01-05', TRUE, 1, 1),
 (2, '2024-01-10', FALSE, 2, 2),
 (3, '2024-02-15', TRUE, 3, 3),
