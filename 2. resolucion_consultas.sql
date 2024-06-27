@@ -2,7 +2,6 @@
 -- www.todocodeacademy.com
 -- Todos los derechos reservados
 
-
 -- Consultas
 -- Listar todos los alumnos inscriptos en el curso de "Guitarra Intermedio"
 --Solución 1
