@@ -1,3 +1,7 @@
+-- Este Script fue generado en un ejercicio realizado en vivo en TodoCode (twitch.tv/todocode)
+-- www.todocodeacademy.com
+-- Todos los derechos reservados
+
 -- Creates
 CREATE TABLE alumnos (
     id_alumno INT PRIMARY KEY,
