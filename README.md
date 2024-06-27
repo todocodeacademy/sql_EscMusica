@@ -8,6 +8,9 @@ El ejercicio aquí presente y la resolución del mismo es propiedad intelectual 
 ## Descripción
 Ejercicio de bases de datos relacionales y consultas SQL desarrollado en vivo en https://twitch.tv/todocode
 
+## Video Explicativo
+El video de resolución explicativo lo podés encontrar en: [Ver video explicativo]()
+
 ## Consigna
 [Descargar Consigna en PDF](https://github.com/todocodeacademy/sql_EscMusica/blob/main/0.%20Consigna%20de%20Ejercicio%20SQL%20-%20Escuela%20de%20M%C3%BAsica.pdf)
 
