@@ -14,6 +14,9 @@ El video de resolución explicativo lo podés encontrar en: [Ver video explicati
 ## 📝 Consigna
 [Descargar Consigna en PDF](https://github.com/todocodeacademy/sql_EscMusica/blob/main/0.%20Consigna%20de%20Ejercicio%20SQL%20-%20Escuela%20de%20M%C3%BAsica.pdf)
 
+## Modelado
+![Image](https://github.com/todocodeacademy/sql_EscMusica/blob/main/0.%20DEREscuelaMusicaTodoCode.png)
+
 ## 👩🏻‍💻👨🏼‍💻 Scripts/consultas para datos iniciales de base de datos
 [Descargar script inicial](https://github.com/todocodeacademy/sql_EscMusica/blob/main/1.%20datos_base.sql)
 
